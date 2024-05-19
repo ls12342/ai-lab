@@ -34,7 +34,7 @@ Replace <version> with your CUDA version number.
 - **Additional Python Libraries**:
 
 ```bash
-pip install diffusers huggingface_hub safetensors accelerate
+pip install diffusers huggingface_hub safetensors accelerate transformers
 ```
 
 Install any additional dependencies as required.
